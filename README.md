@@ -1,23 +1,23 @@
-# 🎬 Análise Exploratória de Filmes do Letterboxd
+# 🎬 Exploratory Analysis of Letterboxd Movies
 
-Este repositório contém uma análise exploratória (AED) em andamento utilizando dados do Letterboxd, uma plataforma social de avaliação de filmes. O objetivo é identificar padrões, tendências e insights sobre filmes, diretores, países de origem, duração, gênero e avaliações dos usuários.
+This repository contains an ongoing exploratory data analysis (EDA) using data from Letterboxd, a social platform for movie ratings. The goal is to identify patterns, trends, and insights about movies, directors, countries of origin, duration, genre, and user ratings.
 
-## 📊 O que já foi explorado
+## 📊 What Has Been Explored
 
-- Distribuição das notas dos filmes
-- Comparação de gêneros entre o top 1% e bottom 1%
+- Distribution of movie ratings
+- Genre comparison between the top 1% and bottom 1%
 
 ## 📁 Dataset
 
-Utilizado o dataset público disponível no Kaggle:  
+Using the public dataset available on Kaggle:  
 🔗 [Letterboxd Dataset - Kaggle](https://www.kaggle.com/datasets/gsimonx37/letterboxd)
 
-## ⚙️ Tecnologias
+## ⚙️ Technologies
 
 - Python (Jupyter Notebook)
 - Pandas, Matplotlib, Seaborn
-- Visualizações com tema escuro inspirado no Letterboxd
+- Visualizations with a dark theme inspired by Letterboxd
 
 ## 🚧 Status
 
-🛠️ Projeto em desenvolvimento.
+🛠️ Project under development.
